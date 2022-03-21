@@ -1,0 +1,16 @@
+{
+  "name": "lesn3",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "app.js",
+  "scripts": {
+    "test": "true",
+    "start": "node app.js"
+  },
+  "author": "maksim",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
